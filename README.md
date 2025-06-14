@@ -1,6 +1,5 @@
-# Application-Development-with-Bedrock
 
-# 🧠 AI-Powered To-Do List App (with Amazon Bedrock)
+#  AI-Powered To-Do List App (with Amazon Bedrock)
 
 This is a full-stack to-do list web application enhanced with AI-generated suggestions using Amazon Bedrock (Claude v2). Built using Flask (Python) and deployed using AWS App Runner.
 
